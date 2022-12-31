@@ -1,8 +1,7 @@
 ---
 title: JOSE MARTINEZ CASTRO
 ---
-
-![](696D04A8-BF3C-49D7-A17E-6CAB340F2560.png)
+![79D7324F-370A-49A8-BCA1-10CFF8DEDE05.jpeg](/79D7324F-370A-49A8-BCA1-10CFF8DEDE05.jpeg)
 
 Host your second brain and [digital garden](https://jzhao.xyz/posts/digital-gardening) for free. Quartz features
 1. Extremely fast full-text search by pressing `/`
