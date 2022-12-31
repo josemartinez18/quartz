@@ -2,6 +2,7 @@
 title: "Setup"
 tags:
 - setup
+weight: -5
 ---
 
 ## Making your own Quartz
@@ -20,12 +21,12 @@ Then, Fork the repository into your own GitHub account. If you don't have an acc
 After you've made a fork of the repository, you need to download the files locally onto your machine. Ensure you have `git`, then type the following command replacing `YOUR-USERNAME` with your GitHub username.
 
 ```shell
-$ git clone https://github.com/YOUR-USERNAME/quartz
+git clone https://github.com/YOUR-USERNAME/quartz
 ```
 
 ## Editing
 Great! Now you have everything you need to start editing and growing your digital garden. If you're ready to start writing content already, check out the recommended flow for editing notes in Quartz.
 
-✏️ [Editing Notes in Quartz](notes/editing.md)
+> ✏️ Step 2: [Editing Notes in Quartz](notes/editing.md)
 
 Having problems? Checkout our [FAQ and Troubleshooting guide](notes/troubleshooting.md).
